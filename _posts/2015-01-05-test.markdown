@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Getting the post to post... and other Jekyll Issues."
+date:   2015-01-05 18:54:30
+categories: jekyll update
+---
+**So**, to start, my markdown file got all sorts of crazy and somehow got some html and Jekyll code caught into it. Dont know what happened, but starting a new file seemed to do the trick.
+
+Before that I was having issues changing anything in the config.yml file. Once Brian told me about needing to stop and restart the server all of that was fixed as well.
+
+This Is A Table | That I Made
+--------------- |------------
+Heres some content | for the table
