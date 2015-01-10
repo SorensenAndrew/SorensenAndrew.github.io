@@ -21,6 +21,10 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$box-shadow: 5px 5px $brand-color;
+
+
+
 // Width of the content area
 $content-width:    800px;
 
@@ -48,5 +52,7 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
+        "mixin",
         "syntax-highlighting"
+
 ;

@@ -33,6 +33,7 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
+  @extend %bold;
 }
 
 
@@ -202,3 +203,9 @@ pre {
         }
     }
 }
+
+// Extend Test
+%bold{
+  font-weight: bold;
+}
+
