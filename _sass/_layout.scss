@@ -92,14 +92,16 @@
     }
 }
 /* Body Section */
-.body{
-  margin-top: 25px;
+.center{
+  margin-left: auto;
+  margin-right: auto;
   background-color: #2a7ae2;
   padding: 5px;
-  text-align: center;
+  width: 75%;
+  align-content: center;
 }
 
-.body:hover{
+.center:hover{
   background-color: lightblue;
 }
 

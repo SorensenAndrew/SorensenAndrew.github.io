@@ -10,4 +10,4 @@ After that I kept running into conflicting code in the css I was trying to chang
 
 The final issue I encountered, which I still cannot fix, was the fact that the styling inside my nesting seems to be applying outside of the nesting element and I am not sure as to why.
 
-Also, a lot of things are bold now. I did this on purpose to demonstrate the extend feature. I recognize that it looks odd. 
+Also, a lot of things are bold now. I did this on purpose to demonstrate the extend feature. I recognize that it looks odd.
