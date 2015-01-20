@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Lab 5 Business Start"
+date:   2015-01-20 21:57:00
+categories: Sass
+---
+
+The first business I found that I wanted to work on was the Adams Hall Schieffelin & Smith, P.A. law firm. They have a website, but is very basic and I think could be a lot better.
+
+The other business I saw was Relax in Comfort, a mattress sales department.  However their website has really poorly placed ads and the colors make it feel like a Publix.
+
+To start I'll look around each page's website and seeing what it is that they are trying to accomplish. 
